@@ -1,5 +1,5 @@
 # OASIS-INFOBYTE-JAVA-DEVELOPMENT-INTERNSHIP TASK-3
-Ihave succesfully completed ATM interface project using java.
+I have succesfully completed ATM interface project using java.
 In this project we can perform many operations like-
 1. Make new account
 2. Balance check
